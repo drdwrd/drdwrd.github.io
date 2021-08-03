@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "pl.foo.bar.test.instant",
-               "sha256_cert_fingerprints": ["05:F2:DF:03:4F:96:7C:0D:7E:63:EC:11:EF:B9:4A:EA:F3:B0:E2:10:2A:FD:78:92:71:43:0B:07:AB:58:F7:3D"] }
-}]
